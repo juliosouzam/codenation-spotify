@@ -129,7 +129,6 @@ const Player = () => {
 
           <audio
             ref={audioElementRef}
-            controls
             autoPlay
             onEnded={handleOnEnded}
             onTimeUpdate={handleTimeUpdate}
