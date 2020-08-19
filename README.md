@@ -1,17 +1,16 @@
 # React / Redux Spotify Pocket SPA
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3194f71c-2da4-4146-b1ba-3c14e024ec2f/deploy-status)](https://app.netlify.com/sites/viniciusvinna-react-pocket-spotify/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bbb4226d-b4ed-477c-a2bd-a622f8c6522c/deploy-status)](https://app.netlify.com/sites/nostalgic-bohr-61962a/deploys)
 ## Objetivo:
 Neste último desafio você aplicará todo o conhecimento adquirido durante o curso e terá que desenvolver uma versão _**pocket**_ do Spotify, integrada a [Web API](https://developer.spotify.com/documentation/web-api) oficial, utilizando `fluxo implícito de concessão` (Implicit Grant Flow) para realizar a autenticação do usuário, permite que ele acesse rotas privadas dentro da aplicação.
 
 ## Referência do projeto finalizado e em ambiente de produção:
- [https://viniciusvinna-react-pocket-spotify.netlify.app](https://viniciusvinna-react-pocket-spotify.netlify.app)
+ [https://nostalgic-bohr-61962a.netlify.app/](https://nostalgic-bohr-61962a.netlify.app/)
 
 <img src="docs/spotify-pocket.gif" width="320" style="border: 2px solid black; margin: auto">
 
 ## Código Fonte:
 Caso precise consultar o código fonte original para tirar dúvidas, você poderá acessar:
->  [https://github.com/ViniciusVinna/react-spotify-pocket](https://github.com/ViniciusVinna/react-spotify-pocket)
+>  [https://github.com/juliosouzam/codenation-spotify](https://github.com/juliosouzam/codenation-spotify)
 
 ## Tópicos:
 Neste desafio você vai praticar os seus conhecimentos em:
